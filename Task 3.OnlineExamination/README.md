@@ -1,4 +1,4 @@
-# Online Examination System (Java)
+# Online Examination System- Oasis Infobyte Task 3
 
 This project is developed as part of Oasis Infobyte Java Programming Internship – Task 3.
 
