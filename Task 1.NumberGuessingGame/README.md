@@ -1,4 +1,4 @@
-# Number Guessing Game (Java)
+# Number Guessing Game- Oasis infobyte Task 1
 
 This project is developed as part of Oasis Infobyte Java Programming Internship – Task 1.
 
