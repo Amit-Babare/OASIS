@@ -12,3 +12,5 @@ This project is developed as part of Oasis Infobyte Java Programming Internship 
 ## Technology Used
 - Java
 - Console based application
+## Author
+Amit Babare
